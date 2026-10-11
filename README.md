@@ -1,5 +1,5 @@
 # testgit
-This is a test program for DES424 (6622772489).
+This is a test program for DES424 (6622772489)
 ### Table of contents
 * [Required Software](#required-software)
 * [Installation](#installation)
